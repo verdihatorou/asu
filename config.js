@@ -7,7 +7,7 @@ global.owner = [
   // [owner bukan bot!]
 ] // paste nomor di sini
 global.mods = [] // bantuan?
-global.prems = ['6283869803330', // user premium limit tanpa batas 
+global.prems = ['6283869803330'] // user premium limit tanpa batas 
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrttm: 'https://nurutomo.herokuapp.com',
